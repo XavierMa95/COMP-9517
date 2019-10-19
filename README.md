@@ -15,3 +15,5 @@ the following skills:
 3. Performing simple mathematical operations on images
 4. Applying image filters
 5. Image manipulation and adjustment
+
+Mark: 8.5/10 {Excellent report and very good analysis;Â you should include background information in each task.}
